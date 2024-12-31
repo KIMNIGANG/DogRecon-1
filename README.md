@@ -1,2 +1,2 @@
 # DogRecon
-Todo IJCV submit
+IJCV submit
