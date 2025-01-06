@@ -52,8 +52,8 @@ Replace `<image_name>` with the name of your image (without the file extension).
 1. **Stable Zero123**: Initial processing and setup.
 2. **GroundingDINO + SAM**: Mask generation and backup.
 3. **BITE**: Full inference and optimization.
-4. **Geometric Prior**: Further processing using optimized masks.
-5. **Gaussian Splatting**: Final processing to generate the output.
+4. **Canine Geometric Prior**: Further processing using optimized masks.
+5. **Gaussian Splatting(GART)**: Final processing to generate the output.
 
 
 
