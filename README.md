@@ -57,4 +57,3 @@ Replace `<image_name>` with the name of your image (without the file extension).
 
 
 
-This project is licensed under the MIT License.
