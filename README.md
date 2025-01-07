@@ -56,4 +56,7 @@ Replace `<image_name>` with the name of your image (without the file extension).
 5. **Gaussian Splatting(GART)**: Final processing to generate the output.
 
 
-
+## TODO
+release the code
+clean the code
+add bibtex
